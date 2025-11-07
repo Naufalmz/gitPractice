@@ -1,0 +1,11 @@
+[33mcommit 44a06e1cb3a6d31fd081cbbe0de00ea9e0798962[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Naufalmz <adrian.n.mazaya@gmail.com>
+Date:   Fri Nov 7 11:35:47 2025 +0800
+
+    update: print out Hello message
+
+[33mcommit 5ad17f6c0d9d871490339c2a9eee4e91d6cc42f2[m
+Author: Naufalmz <adrian.n.mazaya@gmail.com>
+Date:   Fri Nov 7 11:31:23 2025 +0800
+
+    Initialize commit: demo program
